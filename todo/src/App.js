@@ -1,5 +1,5 @@
 import './App.css';
-import React,{useEffect} from 'react';
+import React from 'react';
 import Header from './parts/header'
 import ToDo from './parts/todos'
 import Form from './parts/form'
